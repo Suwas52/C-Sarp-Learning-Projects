@@ -1,0 +1,7 @@
+D:\.net and react project\C#\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.exe.config
+D:\.net and react project\C#\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.exe
+D:\.net and react project\C#\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.pdb
+D:\.net and react project\C#\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.csproj.AssemblyReference.cache
+D:\.net and react project\C#\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.csproj.CoreCompileInputs.cache
+D:\.net and react project\C#\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.exe
+D:\.net and react project\C#\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.pdb

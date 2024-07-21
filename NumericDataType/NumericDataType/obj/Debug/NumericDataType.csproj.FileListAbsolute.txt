@@ -1,0 +1,7 @@
+D:\.net and react project\C#\NumericDataType\NumericDataType\bin\Debug\NumericDataType.exe.config
+D:\.net and react project\C#\NumericDataType\NumericDataType\bin\Debug\NumericDataType.exe
+D:\.net and react project\C#\NumericDataType\NumericDataType\bin\Debug\NumericDataType.pdb
+D:\.net and react project\C#\NumericDataType\NumericDataType\obj\Debug\NumericDataType.csproj.AssemblyReference.cache
+D:\.net and react project\C#\NumericDataType\NumericDataType\obj\Debug\NumericDataType.csproj.CoreCompileInputs.cache
+D:\.net and react project\C#\NumericDataType\NumericDataType\obj\Debug\NumericDataType.exe
+D:\.net and react project\C#\NumericDataType\NumericDataType\obj\Debug\NumericDataType.pdb

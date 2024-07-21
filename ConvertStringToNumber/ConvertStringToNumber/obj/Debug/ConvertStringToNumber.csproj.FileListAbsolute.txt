@@ -1,0 +1,7 @@
+D:\.net and react project\C#\ConvertStringToNumber\ConvertStringToNumber\bin\Debug\ConvertStringToNumber.exe.config
+D:\.net and react project\C#\ConvertStringToNumber\ConvertStringToNumber\bin\Debug\ConvertStringToNumber.exe
+D:\.net and react project\C#\ConvertStringToNumber\ConvertStringToNumber\bin\Debug\ConvertStringToNumber.pdb
+D:\.net and react project\C#\ConvertStringToNumber\ConvertStringToNumber\obj\Debug\ConvertStringToNumber.csproj.AssemblyReference.cache
+D:\.net and react project\C#\ConvertStringToNumber\ConvertStringToNumber\obj\Debug\ConvertStringToNumber.csproj.CoreCompileInputs.cache
+D:\.net and react project\C#\ConvertStringToNumber\ConvertStringToNumber\obj\Debug\ConvertStringToNumber.exe
+D:\.net and react project\C#\ConvertStringToNumber\ConvertStringToNumber\obj\Debug\ConvertStringToNumber.pdb

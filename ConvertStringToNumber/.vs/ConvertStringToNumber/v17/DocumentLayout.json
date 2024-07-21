@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net and react project\\C#\\ConvertStringToNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{581EB4A8-917C-45D0-9720-B0F81097CAE0}|ConvertStringToNumber\\ConvertStringToNumber.csproj|d:\\.net and react project\\c#\\convertstringtonumber\\convertstringtonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581EB4A8-917C-45D0-9720-B0F81097CAE0}|ConvertStringToNumber\\ConvertStringToNumber.csproj|solutionrelative:convertstringtonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net and react project\\C#\\ConvertStringToNumber\\ConvertStringToNumber\\Program.cs",
+              "RelativeDocumentMoniker": "ConvertStringToNumber\\Program.cs",
+              "ToolTip": "D:\\.net and react project\\C#\\ConvertStringToNumber\\ConvertStringToNumber\\Program.cs",
+              "RelativeToolTip": "ConvertStringToNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:59:10.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
