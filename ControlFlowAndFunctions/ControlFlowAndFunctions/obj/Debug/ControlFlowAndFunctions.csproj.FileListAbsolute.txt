@@ -1,0 +1,7 @@
+D:\.net and react project\C#\ControlFlowAndFunctions\ControlFlowAndFunctions\bin\Debug\ControlFlowAndFunctions.exe.config
+D:\.net and react project\C#\ControlFlowAndFunctions\ControlFlowAndFunctions\bin\Debug\ControlFlowAndFunctions.exe
+D:\.net and react project\C#\ControlFlowAndFunctions\ControlFlowAndFunctions\bin\Debug\ControlFlowAndFunctions.pdb
+D:\.net and react project\C#\ControlFlowAndFunctions\ControlFlowAndFunctions\obj\Debug\ControlFlowAndFunctions.csproj.AssemblyReference.cache
+D:\.net and react project\C#\ControlFlowAndFunctions\ControlFlowAndFunctions\obj\Debug\ControlFlowAndFunctions.csproj.CoreCompileInputs.cache
+D:\.net and react project\C#\ControlFlowAndFunctions\ControlFlowAndFunctions\obj\Debug\ControlFlowAndFunctions.exe
+D:\.net and react project\C#\ControlFlowAndFunctions\ControlFlowAndFunctions\obj\Debug\ControlFlowAndFunctions.pdb

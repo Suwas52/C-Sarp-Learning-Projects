@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net and react project\\C#\\ControlFlowAndFunctions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E845440E-164A-4405-9E8E-A5C1B3ED1E9B}|ControlFlowAndFunctions\\ControlFlowAndFunctions.csproj|d:\\.net and react project\\c#\\controlflowandfunctions\\controlflowandfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E845440E-164A-4405-9E8E-A5C1B3ED1E9B}|ControlFlowAndFunctions\\ControlFlowAndFunctions.csproj|solutionrelative:controlflowandfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net and react project\\C#\\ControlFlowAndFunctions\\ControlFlowAndFunctions\\Program.cs",
+              "RelativeDocumentMoniker": "ControlFlowAndFunctions\\Program.cs",
+              "ToolTip": "D:\\.net and react project\\C#\\ControlFlowAndFunctions\\ControlFlowAndFunctions\\Program.cs",
+              "RelativeToolTip": "ControlFlowAndFunctions\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:41:28.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
