@@ -12,7 +12,7 @@ namespace ControlFlowAndFunctions
         {
 
             // if else statement
-            Console.Write("Enter your age: ");
+            /*Console.Write("Enter your age: ");
             string inputAge = Console.ReadLine();
 
             int age = Convert.ToInt32(inputAge);
@@ -38,9 +38,51 @@ namespace ControlFlowAndFunctions
                 Console.WriteLine("age is Invalid");
             }
             
-            Console.ReadLine();
+            Console.ReadLine();*/
 
             // switch case
+            //Simple Calculator
+
+            Console.Write("Enter First number: ");
+            string inputNum1 = Console.ReadLine();
+            int num1 = Convert.ToInt32(inputNum1);
+
+            Console.Write("Enter operator for Calculation: ");
+            string inputOperator = Console.ReadLine();
+
+            Console.Write("Enter Second number: ");
+            string inputNum2 = Console.ReadLine();
+            int num2 = Convert.ToInt32(inputNum2);
+
+            switch (inputOperator)
+            {
+                case "+":
+                    Console.WriteLine(num1 + num2);
+                    break;
+
+                case "-":
+                    Console.WriteLine(num1 - num2);
+                    break;
+
+                case "*":
+                    Console.WriteLine(num1 * num2);
+                    break;
+
+                case "/":
+                    Console.WriteLine(num1 / num2);
+                    break;
+
+                default:
+                    Console.WriteLine("Invalid operator you should endter +, - , * or /");
+                    break;
+
+            }
+
+            Console.ReadLine();
+
+
+
+
         }
     }
 }
