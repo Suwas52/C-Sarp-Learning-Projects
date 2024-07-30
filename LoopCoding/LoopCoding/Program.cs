@@ -107,12 +107,36 @@ namespace LoopCoding
                 Console.Write($",{n3}");
                 n1 = n2;
                 n2 = n3;
-            }*/
+            }
 
-           Console.ReadLine();
+           Console.ReadLine();*/
+
+
             //Task 7: Count Vowels in a String
             //Write a program to count the number of vowels in a given string using a for loop.
+            /*Console.Write("Enter the Vowels of string: ");
 
+            string inputString = Console.ReadLine();
+
+            string input = inputString.ToLower();
+
+            string vowel = "aeiou";
+            int count = 0;
+            for(int i = 0; i < input.Length ; i++)
+            {
+                for(int j = 0; j < vowel.Length; j++)
+                {
+                    if (input[i] == vowel[j]) 
+                    {
+                        count += 1;
+                    }
+                }
+            }
+
+            Console.WriteLine("The total vowel letter is " + count);
+
+
+            Console.ReadLine();*/
 
 
 
