@@ -1,0 +1,7 @@
+D:\.net and react project\C#\LoopCoding\LoopCoding\bin\Debug\LoopCoding.exe.config
+D:\.net and react project\C#\LoopCoding\LoopCoding\bin\Debug\LoopCoding.exe
+D:\.net and react project\C#\LoopCoding\LoopCoding\bin\Debug\LoopCoding.pdb
+D:\.net and react project\C#\LoopCoding\LoopCoding\obj\Debug\LoopCoding.csproj.AssemblyReference.cache
+D:\.net and react project\C#\LoopCoding\LoopCoding\obj\Debug\LoopCoding.csproj.CoreCompileInputs.cache
+D:\.net and react project\C#\LoopCoding\LoopCoding\obj\Debug\LoopCoding.exe
+D:\.net and react project\C#\LoopCoding\LoopCoding\obj\Debug\LoopCoding.pdb

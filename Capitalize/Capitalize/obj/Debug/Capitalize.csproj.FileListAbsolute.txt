@@ -1,0 +1,7 @@
+D:\.net and react project\C#\Capitalize\Capitalize\bin\Debug\Capitalize.exe.config
+D:\.net and react project\C#\Capitalize\Capitalize\bin\Debug\Capitalize.exe
+D:\.net and react project\C#\Capitalize\Capitalize\bin\Debug\Capitalize.pdb
+D:\.net and react project\C#\Capitalize\Capitalize\obj\Debug\Capitalize.csproj.AssemblyReference.cache
+D:\.net and react project\C#\Capitalize\Capitalize\obj\Debug\Capitalize.csproj.CoreCompileInputs.cache
+D:\.net and react project\C#\Capitalize\Capitalize\obj\Debug\Capitalize.exe
+D:\.net and react project\C#\Capitalize\Capitalize\obj\Debug\Capitalize.pdb

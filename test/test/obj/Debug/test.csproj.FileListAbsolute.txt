@@ -1,0 +1,7 @@
+D:\.net and react project\C#\test\test\bin\Debug\test.exe.config
+D:\.net and react project\C#\test\test\bin\Debug\test.exe
+D:\.net and react project\C#\test\test\bin\Debug\test.pdb
+D:\.net and react project\C#\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\.net and react project\C#\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\.net and react project\C#\test\test\obj\Debug\test.exe
+D:\.net and react project\C#\test\test\obj\Debug\test.pdb
