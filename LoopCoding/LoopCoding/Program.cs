@@ -122,6 +122,8 @@ namespace LoopCoding
 
             string vowel = "aeiou";
             int count = 0;
+
+            //we can also used vowel.contains(input[i]) --contains is a built in built-in method in C# that checks if a string contains a specified character or substring.
             for(int i = 0; i < input.Length ; i++)
             {
                 for(int j = 0; j < vowel.Length; j++)
@@ -148,9 +150,6 @@ namespace LoopCoding
 
 
              Task 6: Fibonacci Series
-
-
-             
 
              Task 8: Find Maximum Element
              Write a program to find the maximum element in an array of integers using a for loop.

@@ -1,0 +1,7 @@
+D:\.net and react project\C#\Guess Number\Guess Number\bin\Debug\Guess Number.exe.config
+D:\.net and react project\C#\Guess Number\Guess Number\bin\Debug\Guess Number.exe
+D:\.net and react project\C#\Guess Number\Guess Number\bin\Debug\Guess Number.pdb
+D:\.net and react project\C#\Guess Number\Guess Number\obj\Debug\Guess Number.csproj.AssemblyReference.cache
+D:\.net and react project\C#\Guess Number\Guess Number\obj\Debug\Guess Number.csproj.CoreCompileInputs.cache
+D:\.net and react project\C#\Guess Number\Guess Number\obj\Debug\Guess Number.exe
+D:\.net and react project\C#\Guess Number\Guess Number\obj\Debug\Guess Number.pdb

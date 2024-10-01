@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.net and react project\\C#\\LoopCoding\\",
+  "WorkspaceRootPath": "D:\\.NET and REACT Projects\\C#\\LoopCoding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{841F69FA-CB22-4BE2-9D51-7EBE25930D12}|LoopCoding\\LoopCoding.csproj|d:\\.net and react project\\c#\\loopcoding\\loopcoding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{841F69FA-CB22-4BE2-9D51-7EBE25930D12}|LoopCoding\\LoopCoding.csproj|d:\\.net and react projects\\c#\\loopcoding\\loopcoding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{841F69FA-CB22-4BE2-9D51-7EBE25930D12}|LoopCoding\\LoopCoding.csproj|solutionrelative:loopcoding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.net and react project\\C#\\LoopCoding\\LoopCoding\\Program.cs",
+              "DocumentMoniker": "D:\\.NET and REACT Projects\\C#\\LoopCoding\\LoopCoding\\Program.cs",
               "RelativeDocumentMoniker": "LoopCoding\\Program.cs",
-              "ToolTip": "D:\\.net and react project\\C#\\LoopCoding\\LoopCoding\\Program.cs",
+              "ToolTip": "D:\\.NET and REACT Projects\\C#\\LoopCoding\\LoopCoding\\Program.cs",
               "RelativeToolTip": "LoopCoding\\Program.cs",
-              "ViewState": "AQIAAHQAAAAAAAAAAAAAAIoAAAAhAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T09:53:16.473Z",
               "EditorCaption": ""

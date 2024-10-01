@@ -1,0 +1,15 @@
+D:\.NET and REACT Projects\C#\Master Design Patterns & SOLID Principles in C#\OOPC#\bin\Debug\net8.0\OOPC#.exe
+D:\.NET and REACT Projects\C#\Master Design Patterns & SOLID Principles in C#\OOPC#\bin\Debug\net8.0\OOPC#.deps.json
+D:\.NET and REACT Projects\C#\Master Design Patterns & SOLID Principles in C#\OOPC#\bin\Debug\net8.0\OOPC#.runtimeconfig.json
+D:\.NET and REACT Projects\C#\Master Design Patterns & SOLID Principles in C#\OOPC#\bin\Debug\net8.0\OOPC#.dll
+D:\.NET and REACT Projects\C#\Master Design Patterns & SOLID Principles in C#\OOPC#\bin\Debug\net8.0\OOPC#.pdb
+D:\.NET and REACT Projects\C#\Master Design Patterns & SOLID Principles in C#\OOPC#\obj\Debug\net8.0\OOPC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET and REACT Projects\C#\Master Design Patterns & SOLID Principles in C#\OOPC#\obj\Debug\net8.0\OOPC#.AssemblyInfoInputs.cache
+D:\.NET and REACT Projects\C#\Master Design Patterns & SOLID Principles in C#\OOPC#\obj\Debug\net8.0\OOPC#.AssemblyInfo.cs
+D:\.NET and REACT Projects\C#\Master Design Patterns & SOLID Principles in C#\OOPC#\obj\Debug\net8.0\OOPC#.csproj.CoreCompileInputs.cache
+D:\.NET and REACT Projects\C#\Master Design Patterns & SOLID Principles in C#\OOPC#\obj\Debug\net8.0\OOPC#.sourcelink.json
+D:\.NET and REACT Projects\C#\Master Design Patterns & SOLID Principles in C#\OOPC#\obj\Debug\net8.0\OOPC#.dll
+D:\.NET and REACT Projects\C#\Master Design Patterns & SOLID Principles in C#\OOPC#\obj\Debug\net8.0\refint\OOPC#.dll
+D:\.NET and REACT Projects\C#\Master Design Patterns & SOLID Principles in C#\OOPC#\obj\Debug\net8.0\OOPC#.pdb
+D:\.NET and REACT Projects\C#\Master Design Patterns & SOLID Principles in C#\OOPC#\obj\Debug\net8.0\OOPC#.genruntimeconfig.cache
+D:\.NET and REACT Projects\C#\Master Design Patterns & SOLID Principles in C#\OOPC#\obj\Debug\net8.0\ref\OOPC#.dll
