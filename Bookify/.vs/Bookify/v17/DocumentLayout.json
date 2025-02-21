@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET and REACT Projects\\C#\\Bookify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5E2DA5-5469-48EE-BA99-A153A6CF0E28}|..\\Bookify.Domain\\Bookify.Domain.csproj|d:\\.net and react projects\\c#\\bookify.domain\\apartment\\appartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5E2DA5-5469-48EE-BA99-A153A6CF0E28}|..\\Bookify.Domain\\Bookify.Domain.csproj|d:\\.net and react projects\\c#\\bookify.domain\\apartment\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Amenity.cs",
+              "DocumentMoniker": "D:\\.NET and REACT Projects\\C#\\Bookify.Domain\\Apartment\\Amenity.cs",
+              "RelativeDocumentMoniker": "..\\Bookify.Domain\\Apartment\\Amenity.cs",
+              "ToolTip": "D:\\.NET and REACT Projects\\C#\\Bookify.Domain\\Apartment\\Amenity.cs",
+              "RelativeToolTip": "..\\Bookify.Domain\\Apartment\\Amenity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:23:28.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Appartment.cs",
+              "DocumentMoniker": "D:\\.NET and REACT Projects\\C#\\Bookify.Domain\\Apartment\\Appartment.cs",
+              "RelativeDocumentMoniker": "..\\Bookify.Domain\\Apartment\\Appartment.cs",
+              "ToolTip": "D:\\.NET and REACT Projects\\C#\\Bookify.Domain\\Apartment\\Appartment.cs",
+              "RelativeToolTip": "..\\Bookify.Domain\\Apartment\\Appartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:12:28.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

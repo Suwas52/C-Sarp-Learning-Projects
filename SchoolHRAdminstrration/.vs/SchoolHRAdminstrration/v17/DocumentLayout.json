@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET and REACT Projects\\C#\\SchoolHRAdminstrration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6527328C-DADB-4A08-A1E8-4140E8FBFF14}|SchoolHRAdminstrration\\SchoolHRAdminstrration.csproj|d:\\.net and react projects\\c#\\schoolhradminstrration\\schoolhradminstrration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6527328C-DADB-4A08-A1E8-4140E8FBFF14}|SchoolHRAdminstrration\\SchoolHRAdminstrration.csproj|solutionrelative:schoolhradminstrration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C85BC4-3CA3-40CE-AD8A-DD4D97A5FE46}|HRAdministrationaAPI\\HRAdministrationaAPI.csproj|d:\\.net and react projects\\c#\\schoolhradminstrration\\hradministrationaapi\\employeebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C85BC4-3CA3-40CE-AD8A-DD4D97A5FE46}|HRAdministrationaAPI\\HRAdministrationaAPI.csproj|solutionrelative:hradministrationaapi\\employeebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C85BC4-3CA3-40CE-AD8A-DD4D97A5FE46}|HRAdministrationaAPI\\HRAdministrationaAPI.csproj|d:\\.net and react projects\\c#\\schoolhradminstrration\\hradministrationaapi\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C85BC4-3CA3-40CE-AD8A-DD4D97A5FE46}|HRAdministrationaAPI\\HRAdministrationaAPI.csproj|solutionrelative:hradministrationaapi\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET and REACT Projects\\C#\\SchoolHRAdminstrration\\SchoolHRAdminstrration\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolHRAdminstrration\\Program.cs",
+              "ToolTip": "D:\\.NET and REACT Projects\\C#\\SchoolHRAdminstrration\\SchoolHRAdminstrration\\Program.cs",
+              "RelativeToolTip": "SchoolHRAdminstrration\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:51:54.38Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeBase.cs",
+              "DocumentMoniker": "D:\\.NET and REACT Projects\\C#\\SchoolHRAdminstrration\\HRAdministrationaAPI\\EmployeeBase.cs",
+              "RelativeDocumentMoniker": "HRAdministrationaAPI\\EmployeeBase.cs",
+              "ToolTip": "D:\\.NET and REACT Projects\\C#\\SchoolHRAdminstrration\\HRAdministrationaAPI\\EmployeeBase.cs",
+              "RelativeToolTip": "HRAdministrationaAPI\\EmployeeBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T06:05:52.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\.NET and REACT Projects\\C#\\SchoolHRAdminstrration\\HRAdministrationaAPI\\IEmployee.cs",
+              "RelativeDocumentMoniker": "HRAdministrationaAPI\\IEmployee.cs",
+              "ToolTip": "D:\\.NET and REACT Projects\\C#\\SchoolHRAdminstrration\\HRAdministrationaAPI\\IEmployee.cs",
+              "RelativeToolTip": "HRAdministrationaAPI\\IEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:11:42.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

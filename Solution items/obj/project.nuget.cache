@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CHPL1IBEb4W61HGoofSL8qBVFtaCO0ubG4hpvzPFmmran9EdN+ng7Ly/wKW/UiKe02wKASjfCuIVwLTtkV8y+Q==",
+  "success": true,
+  "projectFilePath": "D:\\.NET and REACT Projects\\C#\\Solution items\\Solution items.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
