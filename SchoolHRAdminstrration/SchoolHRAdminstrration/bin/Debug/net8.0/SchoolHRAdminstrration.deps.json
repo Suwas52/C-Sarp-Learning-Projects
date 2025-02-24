@@ -16,7 +16,10 @@
       },
       "HRAdministrationaAPI/1.0.0": {
         "runtime": {
-          "HRAdministrationaAPI.dll": {}
+          "HRAdministrationaAPI.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
